@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* alle links */
+a{
+    color: #ffffff !important;
+}
+
+h5{
+    color: #ffffff;
+}
+
+a.dropdown-item{
+    color: #000000 !important;
+}
+
+.errorMsg{
+    background-color: #cc0000;
+    margin-bottom: 10px;
+}
+
+/* footer */
+.page-footer{
+    /* position: absolute; */
+    width: 100%;
+    bottom: 0;
+}
